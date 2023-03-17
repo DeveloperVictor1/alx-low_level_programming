@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-int i, j;
+int i;
 for (i = 0; i < 10; i++)
 {
 if (i != 9)
@@ -18,4 +18,3 @@ putchar(' ');
 }
 return (0);
 }
-
