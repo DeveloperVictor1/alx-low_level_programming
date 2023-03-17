@@ -13,8 +13,8 @@ putchar(i + '0');
 if (i != 9)
 {
 putchar(',');
-putchar(' ');
 }
+putchar(' ');
 }
 return (0);
 }
