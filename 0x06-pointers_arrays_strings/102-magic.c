@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
-*main - check the code
-*
-*Return: Always 0.
+*main - prints a[2]
+*Return: 0
 */
 int main(void)
 {
