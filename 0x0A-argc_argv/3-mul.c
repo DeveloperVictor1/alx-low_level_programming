@@ -48,7 +48,6 @@ return (0);
 }
 return (n);
 }
-
 /**
 * main - multiplies two numbers
 * @argc: number of arguments
@@ -69,4 +68,4 @@ num2 = _atoi(argv[2]);
 result = num1 * num2;
 printf("%d\n", result);
 return (0);
-}}
+}
